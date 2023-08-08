@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        80
+    ],
+    "ruby.format": "rubocop",
+    "files.insertFinalNewline": true,
+    "ruby.rubocop.onSave": true,
+    "editor.formatOnSave": true
+}
